@@ -26,7 +26,7 @@ public class MyFirstAndroidAppActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        forceError();
+        //forceError();
     }
 
     @Override
